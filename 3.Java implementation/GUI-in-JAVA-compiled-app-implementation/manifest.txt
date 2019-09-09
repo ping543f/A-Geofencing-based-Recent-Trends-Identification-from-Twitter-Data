@@ -1,0 +1,2 @@
+Main-Class: app.home.Home
+Class-Path: lib/edu.mit.jwi_2.4.0.jar lib/jcommon-1.0.0.jar lib/jfreechart-1.0.1.jar lib/mysql-connector-java-5.0.8-bin.jar

@@ -1,0 +1,3 @@
+headings needed to put when iporting csv to status table (just copy and paste the below line)
+=============================================================================================
+URL,Keywords,KeywordCount,DateTime,FavoriteCount,Retweet,Lang,LinkCount,Link1,Link2,Link3,Author,Text,Followers,Friends,Location,Timezone,UTCOffset,hashtags
