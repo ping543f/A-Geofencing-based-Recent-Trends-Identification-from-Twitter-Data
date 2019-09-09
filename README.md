@@ -48,3 +48,4 @@ csv file and it will do the rest. twitter-implementation-python.py file contains
 
 4. The latest experiment is done by using 1hourdata.csv data.
  
+Please cite our work if you use this in any academic or industrial project and publications.
